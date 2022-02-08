@@ -5,8 +5,8 @@ Project repository for ETL(extract transfer load) project.
 The aim of the project is to gather a big dataset, having:
 - Three different sources.
 - Using at least 2 of the methods from the course. 
-- cleaning and exploring data, though functions, pandas, s
-- building a dataset (SQL or Mongo)
+- Cleaning and exploring data, though functions, pandas...
+- Building a dataset (SQL or Mongo)
 
 
 My three sources with their method were:
@@ -52,5 +52,8 @@ in order to visualized, power bi could be a great tool to represent the data for
 
 ![Power_BI](https://github.com/evaarquero/project_ETL/blob/main/images/power_BI.PNG)
 
-Extra work to be done for data visualization, in terms of streams values and ranking of the artists. The power BI file is saved as `artist_db.pbix`. 
+Extra work to be done for data visualization, in terms of streams values and ranking of the artists. 
+And the dates for the concerts, making it in the right format. 
+
+The power BI file is saved as `artist_db.pbix`. 
 
