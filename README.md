@@ -19,7 +19,7 @@ My three sources with their method were:
 ## Charmaster web scrapping
 Through beautiful soup, i have scrapped the table in [charmasters](https://chartmasters.org/most-streamed-artists-ever-on-spotify/)
 
-![table](/mnt/c/Users/Palmira/Desktop/Ironhack/Semana4/project_ETL/images/charmasters.png)
+![charmasters](/mnt/c/Users/Palmira/Desktop/Ironhack/Semana4/project_ETL/images/charmasters.png)
 
 
 
