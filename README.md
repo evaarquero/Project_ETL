@@ -20,7 +20,6 @@ My three sources with their method were:
 Through beautiful soup, i have scrapped the table in [charmasters](https://chartmasters.org/most-streamed-artists-ever-on-spotify/). To see the proccess, the notebook is  `2-scrapping_top_streamed.ipnyb`
 
 
-![Charmasters](https://github.com/evaarquero/project_ETL/blob/main/images/charmasters.PNG)
 
 ## Cracking spotify with spotipy 
 [Spotipy ](https://spotipy.readthedocs.io/en/2.19.0/) allows us to get into the spotify API through a friendly library. 
