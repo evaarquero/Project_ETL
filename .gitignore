@@ -1,0 +1,11 @@
+**/.DS_Store
+**/*.ipynb_checkpoints/
+**/__pycache__
+.vscode
+temas.txt
+data
+secret.txt
+secret2.txt
+4-spotify-api.ipynb
+
+

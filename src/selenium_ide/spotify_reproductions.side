@@ -1,0 +1,82 @@
+{
+  "id": "93c58bf9-9a93-4998-8109-79132c0aeca9",
+  "version": "2.0",
+  "name": "spotify_reproductions",
+  "url": "https://open.spotify.com",
+  "tests": [{
+    "id": "68005b88-1d03-4944-a3cc-4d5c68ec15cd",
+    "name": "Mostrar_mas",
+    "commands": [{
+      "id": "6711a3ec-08b2-42c9-9f7f-3d8a5426e21f",
+      "comment": "",
+      "command": "open",
+      "target": "/artist/7MPGCB854Qo4alYMOPkBka",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e43645f5-5125-4baa-98f6-d2a9fb416616",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1900x1020",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ba9635c5-8892-448b-9f0b-9635d556dd45",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "09524f2a-5a27-49a5-9009-d0069ba5c85a",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ce7d76a6-e8e7-4a04-9db2-3a7ffcf59c4c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.nUpwbkL4Yaj31N0emCvb > .gvMYy0vqOxuYtbOkc6sH",
+      "targets": [
+        ["css=.nUpwbkL4Yaj31N0emCvb > .gvMYy0vqOxuYtbOkc6sH", "css:finder"],
+        ["xpath=//div[@id='main']/div/div[2]/div[3]/main/div[2]/div[2]/div/div/div[2]/section/div/div[2]/div[3]/div/div/div/button/div", "xpath:idRelative"],
+        ["xpath=//div[3]/div/div/div/button/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ed196316-dcf6-48d6-af63-1f7ed52a78cd",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.nUpwbkL4Yaj31N0emCvb > .gvMYy0vqOxuYtbOkc6sH",
+      "targets": [
+        ["css=.nUpwbkL4Yaj31N0emCvb > .gvMYy0vqOxuYtbOkc6sH", "css:finder"],
+        ["xpath=//div[@id='main']/div/div[2]/div[3]/main/div[2]/div[2]/div/div/div[2]/section/div/div[2]/div[3]/div/div/div/button/div", "xpath:idRelative"],
+        ["xpath=//div[3]/div/div/div/button/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "77b8a0a0-ed96-4c3a-aa23-40d633a1cb5d",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.nUpwbkL4Yaj31N0emCvb > .gvMYy0vqOxuYtbOkc6sH",
+      "targets": [
+        ["css=.nUpwbkL4Yaj31N0emCvb > .gvMYy0vqOxuYtbOkc6sH", "css:finder"],
+        ["xpath=//div[@id='main']/div/div[2]/div[3]/main/div[2]/div[2]/div/div/div[2]/section/div/div[2]/div[3]/div/div/div/button/div", "xpath:idRelative"],
+        ["xpath=//div[3]/div/div/div/button/div", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "44d204a8-d922-4af7-86e2-fc6e4afa2dda",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["68005b88-1d03-4944-a3cc-4d5c68ec15cd"]
+  }],
+  "urls": ["https://open.spotify.com/"],
+  "plugins": []
+}
